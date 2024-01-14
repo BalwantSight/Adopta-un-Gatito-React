@@ -1,8 +1,7 @@
-# React + Vite
+# Proyecto en React + Vite "Adopta UN Gatito"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Proyecto básico en React para Desafío Latam
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![gatos](https://github.com/BalwantSight/Adopta-un-Gatito-React/assets/103304256/ff97701e-e010-4992-85fd-aac7a8638458)
+
