@@ -1,4 +1,4 @@
-# Proyecto en React + Vite "Adopta UN Gatito"
+# Proyecto en React + Vite "Adopta un Gatito"
 
 
 Proyecto básico en React para Desafío Latam
